@@ -13,7 +13,7 @@ window.storiesData = {
       "levelcefr": "A1",
       "cover": "https://i.ytimg.com/vi/82a1udwePtk/hqdefault.jpg",
       "coverType": "image",
-      "author": "The American English",
+      "author": "Z American English",
       "tags": [
         "course",
         "level 1",
@@ -65,7 +65,7 @@ window.storiesData = {
       "levelcefr": "A1",
       "cover": "https://i.ytimg.com/vi/v7S1q845FMk/hqdefault.jpg",
       "coverType": "image",
-      "author": "The American English",
+      "author": "Z American English",
       "tags": [
         "course",
         "level 1",
@@ -131,7 +131,7 @@ window.storiesData = {
       "levelcefr": "A1",
       "cover": "https://i.ytimg.com/vi/XGUi081D_xk/hqdefault.jpg",
       "coverType": "image",
-      "author": "The American English",
+      "author": "Z American English",
       "tags": [
         "course",
         "level 1",
@@ -201,7 +201,7 @@ window.storiesData = {
       "levelcefr": "A1",
       "cover": "https://i.ytimg.com/vi/JDgnAh9WtNQ/hqdefault.jpg",
       "coverType": "image",
-      "author": "The American English",
+      "author": "Z American English",
       "tags": [
         "course",
         "level 1",
@@ -271,7 +271,7 @@ window.storiesData = {
       "levelcefr": "A1",
       "cover": "https://i.ytimg.com/vi/TrKt19UuJJc/hqdefault.jpg",
       "coverType": "image",
-      "author": "The American English",
+      "author": "Z American English",
       "tags": [
         "course",
         "level 1",
@@ -334,7 +334,7 @@ window.storiesData = {
       "levelcefr": "A1",
       "cover": "https://i.ytimg.com/vi/8zjKLXCNr3Q/hqdefault.jpg",
       "coverType": "image",
-      "author": "The American English",
+      "author": "Z American English",
       "tags": [
         "course",
         "level 1",
@@ -416,7 +416,7 @@ window.storiesData = {
       "levelcefr": "A1",
       "cover": "https://i.ytimg.com/vi/obiiXJ5vhes/hqdefault.jpg",
       "coverType": "image",
-      "author": "The American English",
+      "author": "Z American English",
       "tags": [
         "course",
         "level 1",
@@ -492,7 +492,7 @@ window.storiesData = {
       "levelcefr": "A1",
       "cover": "https://i.ytimg.com/vi/9La3dZ0ZCLI/hqdefault.jpg",
       "coverType": "image",
-      "author": "The American English",
+      "author": "Z American English",
       "tags": [
         "course",
         "level 1",
@@ -573,7 +573,7 @@ window.storiesData = {
       "levelcefr": "A1",
       "cover": "https://i.ytimg.com/vi/zTSv5DIKhB8/hqdefault.jpg",
       "coverType": "image",
-      "author": "The American English",
+      "author": "Z American English",
       "tags": [
         "course",
         "level 1",
