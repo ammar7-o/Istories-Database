@@ -6,7 +6,8 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 SITE_BASE_URL="${SITE_BASE_URL:-https://ammar7-o.github.io/Istories-Database/}"
-export SITE_BASE_URL
+VIEWER_URL="${VIEWER_URL:-https://ammar7-o.github.io/Istories-V/main/index.html}"
+export SITE_BASE_URL VIEWER_URL
 
 python3 - <<'PY'
 from __future__ import annotations
@@ -23,6 +24,10 @@ BASE_URL = os.environ.get(
 ).strip()
 if not BASE_URL.endswith("/"):
     BASE_URL += "/"
+
+VIEWER_URL = os.environ.get(
+    "VIEWER_URL", "https://ammar7-o.github.io/Istories-V/main/index.html"
+).strip()
 
 # These are app/build files, not part of the browsable database.
 HIDDEN_TOP_LEVEL = {"core", "converter", "README.md", "index.html", "tree.sh"}
@@ -82,6 +87,7 @@ payload = {
     "generatedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
     "rootName": ROOT.name,
     "baseUrl": BASE_URL,
+    "viewerUrl": VIEWER_URL,
     "folders": folders,
     "files": files,
 }

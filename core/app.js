@@ -15,6 +15,13 @@
     const base = value || DEFAULT_BASE_URL;
     return base.endsWith("/") ? base : `${base}/`;
   })();
+  const DEFAULT_VIEWER_URL =
+    "https://ammar7-o.github.io/Istories-V/main/index.html";
+  const VIEWER_URL = (() => {
+    const value =
+      DATA && typeof DATA.viewerUrl === "string" ? DATA.viewerUrl.trim() : "";
+    return value || DEFAULT_VIEWER_URL;
+  })();
 
   const ICONS = {
     folder:
@@ -23,6 +30,8 @@
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6.5 3h7l4 4v13a1 1 0 0 1-1 1h-10a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Z"/><path d="M13.5 3v4h4"/></svg>',
     copy:
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h8"/></svg>',
+    external:
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6"/><path d="M20 4 10 14"/><path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>',
     check:
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg>',
     search:
@@ -218,6 +227,13 @@
         .map(encodeURIComponent)
         .join("/")
     );
+  }
+
+  function storyUrl(path) {
+    const separator = VIEWER_URL.includes("?") ? "&" : "?";
+    return `${VIEWER_URL}${separator}story=${encodeURIComponent(
+      fullUrl(path)
+    )}`;
   }
 
   function appendHighlighted(parent, text, term) {
@@ -456,6 +472,21 @@
     top.append(icon);
 
     if (!isFolder && isJs(item)) {
+      const actions = el("div", "item-actions");
+      const openUrl = storyUrl(item.path);
+
+      const openLink = el("a", "open-btn");
+      openLink.href = openUrl;
+      openLink.target = "_blank";
+      openLink.rel = "noopener noreferrer";
+      openLink.innerHTML = `${ICONS.external}<span class="action-label">Open</span>`;
+      openLink.title = `Open ${item.name} in Istories`;
+      openLink.setAttribute("aria-label", `Open ${item.name} in Istories`);
+      openLink.addEventListener("click", (event) => {
+        event.stopPropagation();
+      });
+      actions.append(openLink);
+
       const copyButton = el("button", "copy-btn");
       const url = fullUrl(item.path);
       copyButton.type = "button";
@@ -466,7 +497,9 @@
         event.stopPropagation();
         copyFileUrl(item, copyButton);
       });
-      top.append(copyButton);
+      actions.append(copyButton);
+
+      top.append(actions);
     }
 
     card.append(top);
