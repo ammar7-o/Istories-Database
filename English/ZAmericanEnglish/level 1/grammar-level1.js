@@ -8,10 +8,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 1: A - An",
-      "description": "Learn when to use a and when to use an before singular nouns, and practise the difference between a, an and no article. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/26qCP6YLfiA?rel=0\" title=\"Lesson 1: A - An\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Learn when to use a and when to use an before singular nouns, and practise the difference between a, an and no article. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jXgOjgokSgI?rel=0\" title=\"Lesson 1: A - An\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/26qCP6YLfiA/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/jXgOjgokSgI/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -67,10 +67,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 2: This - That",
-      "description": "Use this for something near and that for something far, with singular nouns and everyday example sentences. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/wes9C0ZT6gQ?rel=0\" title=\"Lesson 2: This - That\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Use this for something near and that for something far, with singular nouns and everyday example sentences. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8sB-clmlZTg?rel=0\" title=\"Lesson 2: This - That\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/wes9C0ZT6gQ/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/8sB-clmlZTg/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -134,10 +134,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 3: These - Those",
-      "description": "Use these for things near you and those for things far away, with plural nouns and classroom examples. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Q8gMUILX6xk?rel=0\" title=\"Lesson 3: These - Those\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Use these for things near you and those for things far away, with plural nouns and classroom examples. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3N1X6GdlgXw?rel=0\" title=\"Lesson 3: These - Those\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/Q8gMUILX6xk/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/3N1X6GdlgXw/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -201,10 +201,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 4: Verb To Be",
-      "description": "Learn the forms am, is and are, use them with nouns and adjectives, and make negative sentences with not. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7vhocM2c54I?rel=0\" title=\"Lesson 4: Verb To Be\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Learn the forms am, is and are, use them with nouns and adjectives, and make negative sentences with not. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EA77V_aLwM0?rel=0\" title=\"Lesson 4: Verb To Be\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/7vhocM2c54I/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/EA77V_aLwM0/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -263,10 +263,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 5: Verb To Be Questions",
-      "description": "Make yes/no questions with am, is and are, and answer them with short affirmative and negative replies. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Q1Vv-L47xh8?rel=0\" title=\"Lesson 5: Verb To Be Questions\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Make yes/no questions with am, is and are, and answer them with short affirmative and negative replies. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PWtRRcO43Tc?rel=0\" title=\"Lesson 5: Verb To Be Questions\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/Q1Vv-L47xh8/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/PWtRRcO43Tc/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -325,10 +325,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 6: WH-questions",
-      "description": "Ask questions with what, where, when, who, why and how, putting am, is or are after the question word. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ssp4xahm824?rel=0\" title=\"Lesson 6: WH-questions\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Ask questions with what, where, when, who, why and how, putting am, is or are after the question word. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/kVO-Ky6ecbU?rel=0\" title=\"Lesson 6: WH-questions\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/ssp4xahm824/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/kVO-Ky6ecbU/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -395,10 +395,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 7: Adjectives",
-      "description": "Use adjectives before nouns and after the verb to be, and learn why adjectives never take a plural s. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/oSNLR7zep_E?rel=0\" title=\"Lesson 7: Adjectives\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Use adjectives before nouns and after the verb to be, and learn why adjectives never take a plural s. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5ko1npmYzVE?rel=0\" title=\"Lesson 7: Adjectives\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/oSNLR7zep_E/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/5ko1npmYzVE/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -462,10 +462,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 8: Countable and Uncountable Nouns",
-      "description": "Tell countable nouns from uncountable nouns, use a and an only with singular countable nouns, and handle nouns that change meaning. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lLuBnyzSr4M?rel=0\" title=\"Lesson 8: Countable and Uncountable Nouns\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Tell countable nouns from uncountable nouns, use a and an only with singular countable nouns, and handle nouns that change meaning. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nPy8H4ZLmCQ?rel=0\" title=\"Lesson 8: Countable and Uncountable Nouns\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/lLuBnyzSr4M/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/nPy8H4ZLmCQ/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -529,10 +529,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 9: Plural Nouns",
-      "description": "Form plurals with s, es and ies, change f to v, and learn the irregular plurals of common English nouns. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GlbaB-gzXrw?rel=0\" title=\"Lesson 9: Plural Nouns\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Form plurals with s, es and ies, change f to v, and learn the irregular plurals of common English nouns. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nyP4uJEZPAI?rel=0\" title=\"Lesson 9: Plural Nouns\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/GlbaB-gzXrw/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/nyP4uJEZPAI/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -637,10 +637,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 10: Quantifiers",
-      "description": "Use much, many, a little, a few, a lot of, some and any correctly, and ask about quantity with how much and how many. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_eeFz69Z3JE?rel=0\" title=\"Lesson 10: Quantifiers\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Use much, many, a little, a few, a lot of, some and any correctly, and ask about quantity with how much and how many. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/METPqSbqeCc?rel=0\" title=\"Lesson 10: Quantifiers\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/_eeFz69Z3JE/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/METPqSbqeCc/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -700,10 +700,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 11: Possessive Adjectives and Pronouns",
-      "description": "Show ownership with my, your, his, her, its, our and their, then replace the noun with mine, yours, his, hers, its, ours or theirs. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pULndA3TeWw?rel=0\" title=\"Lesson 11: Possessive Adjectives and Pronouns\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Show ownership with my, your, his, her, its, our and their, then replace the noun with mine, yours, his, hers, its, ours or theirs. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/r-PvBZSimRU?rel=0\" title=\"Lesson 11: Possessive Adjectives and Pronouns\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/pULndA3TeWw/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/r-PvBZSimRU/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -772,10 +772,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 12: Object and Reflexive Pronouns",
-      "description": "Use me, you, him, her, it, us and them as objects, and myself, yourself, himself and the other reflexive pronouns when the subject and object are the same. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/kRg0eI-ztrE?rel=0\" title=\"Lesson 12: Object and Reflexive Pronouns\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Use me, you, him, her, it, us and them as objects, and myself, yourself, himself and the other reflexive pronouns when the subject and object are the same. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/f9TGKc_8Wfc?rel=0\" title=\"Lesson 12: Object and Reflexive Pronouns\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/kRg0eI-ztrE/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/f9TGKc_8Wfc/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -839,10 +839,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 13: Whose - Practice",
-      "description": "Ask whose things are with whose, and answer with possessive adjectives or possessive pronouns. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PRp7qezu02A?rel=0\" title=\"Lesson 13: Whose - Practice\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Ask whose things are with whose, and answer with possessive adjectives or possessive pronouns. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TzempEr7fjE?rel=0\" title=\"Lesson 13: Whose - Practice\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/PRp7qezu02A/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/TzempEr7fjE/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -917,10 +917,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 14: Simple Present Tense",
-      "description": "Talk about habits, routines and facts with the simple present, adding s for he, she and it and using do and does for questions and negatives. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YQO2OTxlBXA?rel=0\" title=\"Lesson 14: Simple Present Tense\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Talk about habits, routines and facts with the simple present, adding s for he, she and it and using do and does for questions and negatives. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/E2xhJmIuL2s?rel=0\" title=\"Lesson 14: Simple Present Tense\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/YQO2OTxlBXA/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/E2xhJmIuL2s/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -986,10 +986,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 15: Simple Present Review",
-      "description": "Review the simple present with a full set of exercises: verb forms, correct sentences, questions, negatives and short answers. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7_-J6-zNYF0?rel=0\" title=\"Lesson 15: Simple Present Review\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Review the simple present with a full set of exercises: verb forms, correct sentences, questions, negatives and short answers. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/uyHfvT_N0JM?rel=0\" title=\"Lesson 15: Simple Present Review\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/7_-J6-zNYF0/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/uyHfvT_N0JM/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -1058,10 +1058,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 16: Present Continuous Tense",
-      "description": "Describe actions happening now with am, is or are plus the ing form, and practise questions, negatives and spelling rules. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BxbwjdiicEg?rel=0\" title=\"Lesson 16: Present Continuous Tense\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Describe actions happening now with am, is or are plus the ing form, and practise questions, negatives and spelling rules. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IfEWSFnj0II?rel=0\" title=\"Lesson 16: Present Continuous Tense\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/BxbwjdiicEg/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/IfEWSFnj0II/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -1130,10 +1130,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 17: Be vs Do",
-      "description": "Choose between am, is and are and the helpers do and does depending on whether the question is about a description or an action. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ihZL-u768R0?rel=0\" title=\"Lesson 17: Be vs Do\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Choose between am, is and are and the helpers do and does depending on whether the question is about a description or an action. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Q9s-2DsmgQU?rel=0\" title=\"Lesson 17: Be vs Do\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/ihZL-u768R0/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/Q9s-2DsmgQU/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -1183,10 +1183,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 18: Simple Past Tense",
-      "description": "Talk about finished actions in the past with was and were and with regular and irregular past verbs, then form questions and negatives with did. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/l5i3WUbAuzs?rel=0\" title=\"Lesson 18: Simple Past Tense\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Talk about finished actions in the past with was and were and with regular and irregular past verbs, then form questions and negatives with did. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KxHjJ3zHdfY?rel=0\" title=\"Lesson 18: Simple Past Tense\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/l5i3WUbAuzs/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/KxHjJ3zHdfY/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -1267,10 +1267,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 19: Past Continuous Tense",
-      "description": "Describe actions that were in progress in the past with was or were plus the ing form, including interrupted actions and repeated annoying habits. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8Dr6xb2rh5w?rel=0\" title=\"Lesson 19: Past Continuous Tense\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Describe actions that were in progress in the past with was or were plus the ing form, including interrupted actions and repeated annoying habits. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/K9FVBBEDLBQ?rel=0\" title=\"Lesson 19: Past Continuous Tense\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/8Dr6xb2rh5w/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/K9FVBBEDLBQ/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -1328,10 +1328,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 20: When and While",
-      "description": "Connect a longer background action with a sudden event using when and while, and notice how the meaning stays the same when the clauses swap. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2qceNc2222g?rel=0\" title=\"Lesson 20: When and While\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Connect a longer background action with a sudden event using when and while, and notice how the meaning stays the same when the clauses swap. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/i-eSVE103ps?rel=0\" title=\"Lesson 20: When and While\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/2qceNc2222g/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/i-eSVE103ps/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -1386,10 +1386,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 21: Simple Future Tense",
-      "description": "Talk about the future with will and with am, is or are going to, and make questions and negatives with both forms. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/UnlxToin8Qc?rel=0\" title=\"Lesson 21: Simple Future Tense\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Talk about the future with will and with am, is or are going to, and make questions and negatives with both forms. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/d0uaKt_eU4s?rel=0\" title=\"Lesson 21: Simple Future Tense\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/UnlxToin8Qc/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/d0uaKt_eU4s/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -1449,10 +1449,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 22: Comparative Adjectives",
-      "description": "Compare two things with er, with more, and with irregular forms, then use than to complete the comparison. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ZSPEXLH11fk?rel=0\" title=\"Lesson 22: Comparative Adjectives\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Compare two things with er, with more, and with irregular forms, then use than to complete the comparison. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/itBnOcedQ2c?rel=0\" title=\"Lesson 22: Comparative Adjectives\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/ZSPEXLH11fk/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/itBnOcedQ2c/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
@@ -1528,10 +1528,10 @@ window.storiesData = {
     {
       "lang": "en",
       "title": "Lesson 23: Comparative and Superlative Adjectives",
-      "description": "Compare three or more things with the est and the most forms, learn the irregular good, better, best and bad, worse, worst, and use superlatives in sentences. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nyP4uJEZPAI?rel=0\" title=\"Lesson 23: Comparative and Superlative Adjectives\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "description": "Compare three or more things with the est and the most forms, learn the irregular good, better, best and bad, worse, worst, and use superlatives in sentences. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jQi0BvVrCzU?rel=0\" title=\"Lesson 23: Comparative and Superlative Adjectives\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
       "level": "beginner",
       "levelcefr": "A1",
-      "cover": "https://i.ytimg.com/vi/nyP4uJEZPAI/hqdefault.jpg",
+      "cover": "https://i.ytimg.com/vi/jQi0BvVrCzU/hqdefault.jpg",
       "coverType": "image",
       "author": "Z American English",
       "tags": [
